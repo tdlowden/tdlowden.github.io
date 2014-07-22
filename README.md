@@ -1,10 +1,13 @@
-# DOCter
+# Microsite Template 2
 
-DOCter is a [Jekyll](http://jekyllrb.com/) template for quickly building out project pages and documentation.
+This is a [Jekyll](http://jekyllrb.com/) template for quickly building out project pages and documentation.
 
 ![DOCter Screenshot](https://github.com/ascott1/DOCter/blob/gh-pages/assets/img/screenshot.png?raw=true)
 
-## To run DOCter locally
+
+*The below needs to be updated for this project.*
+
+## To run locally
 
 Be sure to have Jekyll and Kramdown installed.
 
