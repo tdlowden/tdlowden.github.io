@@ -5,7 +5,7 @@ markdown: kramdown
 pygments: true
 
 # Title
-name: DOCter
+name: Microsite Template 2
 subtitle: A Jekyll template for project documentation
 
 # When using this template with a project page set the baseurl to '/project-name'
@@ -13,7 +13,7 @@ subtitle: A Jekyll template for project documentation
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: '/DOCter'
+baseurl: '/microsite-template-2'
 
 # Author/Organization info to be displayed in the templates
 author:
@@ -33,8 +33,8 @@ navigation:
 - text: Example Page
   url: example_page.html
   internal: true
-- text: DOCter Repo
-  url: https://github.com/cfpb/DOCter
+- text: Template Repo
+  url: https://github.com/USG-Website-Templates/microsite-template-2
   internal: false
 
 # Repo list
@@ -42,7 +42,7 @@ navigation:
 repos:
 - name: DOCter
   description: Jekyll template for docs
-  url: https://github.com/cfpb/DOCter
+  url: https://github.com/USG-Website-Templates/microsite-template-2
 
 # Style Variables
 brand_color: "#2cb34a"
